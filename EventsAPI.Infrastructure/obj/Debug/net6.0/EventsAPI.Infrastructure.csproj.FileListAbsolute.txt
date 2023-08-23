@@ -1,0 +1,17 @@
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Infrastructure.deps.json
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Infrastructure.runtimeconfig.json
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Infrastructure.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Infrastructure.pdb
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Core.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\bin\Debug\net6.0\EventsAPI.Core.pdb
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.AssemblyInfo.cs
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.csproj.CopyComplete
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\refint\EventsAPI.Infrastructure.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.pdb
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\EventsAPI.Infrastructure.genruntimeconfig.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Infrastructure\obj\Debug\net6.0\ref\EventsAPI.Infrastructure.dll

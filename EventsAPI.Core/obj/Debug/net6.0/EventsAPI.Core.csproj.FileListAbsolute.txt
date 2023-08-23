@@ -1,0 +1,11 @@
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\bin\Debug\net6.0\EventsAPI.Core.deps.json
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\bin\Debug\net6.0\EventsAPI.Core.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\bin\Debug\net6.0\EventsAPI.Core.pdb
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.AssemblyInfoInputs.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.AssemblyInfo.cs
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.csproj.CoreCompileInputs.cache
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\refint\EventsAPI.Core.dll
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\EventsAPI.Core.pdb
+D:\Work Related\UpWork Demo\EventsAPI\EventsAPI.Core\obj\Debug\net6.0\ref\EventsAPI.Core.dll
